@@ -8,7 +8,7 @@
 ```javascript
 const reynaRoyce = {
     tools: ["Javascript", "Python", "C/C++", "C#"],
-    askMeAbout: ["Web dev", "Tech", "Movies/TV Shows"]
+    askMeAbout: ["Web dev", "Tech", "Movies/TV Shows", "Music"]
     technologies: {
         frontEnd: {
                 ["HTML", "CSS", "Bootstrap"],
