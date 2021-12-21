@@ -3,7 +3,6 @@
  <img align="center" alt="GIF" src="icons\Hello.gif" width="500" height="350" />
 </p>
 <h3>Little something about me <img src="icons\icon.gif" width="35px"></h3>
-<br>
 
 
 ```javascript
