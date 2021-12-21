@@ -7,18 +7,18 @@
 
 ```javascript
 const reynaRoyce = {
-    tools: ["Javascript", "Python", "C/C++", "C#"],
-    askMeAbout: ["Web dev", "Tech", "Movies/TV Shows", "Music"]
+    tools: ["JavaScript", "Python", "C/C++", "C#"],
+    askMeAbout: ["Web dev", "Tech", "Movies/TV Shows", "Music"],
     technologies: {
         frontEnd: {
-                ["HTML", "CSS", "Bootstrap"],
+                ["HTML5", "CSS3", "Bootstrap"],
         },
         backEnd: {
             js: ["Node", "Express", "EJS"],
-        },,
-        databases: ["mongodb", "MySql"],
+        },
+        dataBases: ["mongodb", "MySql"],
     },
-    currentFocus: "#100DaysOfCode for Python",
+    currentFocus: "#100DaysOfCode Challenge for Python",
     funFact: "Internet is my favorite place at times :)"
 
 };
