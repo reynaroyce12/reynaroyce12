@@ -1,8 +1,8 @@
-<h1>Ahoy! I'm Reyna <img src="icons\raise_hands.gif" width="10px"></h1>
+<h1>Ahoy! I'm Reyna </h1>
 <div align="center">
  <img align="center" alt="GIF" src="icons\Hello.gif" width="500" height="350" />
 </div>
-<h3>Little something about me <img src="icons\icon.gif" width="10px"></h3>
+<h3>Little something about me </h3>
 <br>
 
 
