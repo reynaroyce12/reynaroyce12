@@ -2,23 +2,24 @@
 <p align="center">
  <img align="center" alt="GIF" src="icons\Hello.gif" width="500" height="350" />
 </p>
-<h3>Lil’ something about me <img src="icons\icon.gif" width="35px"></h3>
+<h3>Little something about me <img src="icons\icon.gif" width="35px"></h3>
+<br>
 
 
 ```javascript
 const reynaRoyce = {
-    tools: ["JavaScript", "Python", "C/C++", "C#"],
-    askMeAbout: ["Web dev", "Tech", "Movies/TV Shows", "Music"],
+    tools: ["Javascript", "Python", "C/C++", "C#"],
+    askMeAbout: ["Web dev", "Tech", "Movies/TV Shows"]
     technologies: {
         frontEnd: {
-                ["HTML5", "CSS3", "Bootstrap"],
+                ["HTML", "CSS", "Bootstrap"],
         },
         backEnd: {
             js: ["Node", "Express", "EJS"],
-        },
-        dataBases: ["mongodb", "MySql"],
+        },,
+        databases: ["mongodb", "MySql"],
     },
-    currentFocus: "#100DaysOfCode Challenge for Python",
+    currentFocus: "#100DaysOfCode for Python",
     funFact: "Internet is my favorite place at times :)"
 
 };
